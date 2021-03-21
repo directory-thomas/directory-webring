@@ -3,5 +3,45 @@
         "title": "Tennessee Directory",
         "url": "https://tennessee-directory.com/",
         "feed": null
+    },
+    {
+        "title": "The Et Alii Internet Directory",
+        "url": "https://www.etalii.biz/",
+        "feed": null
+    },
+    {
+        "title": "The Complete Home Directory",
+        "url": "https://www.home-directory.biz/",
+        "feed": null
+    },
+    {
+        "title": "The Christian Internet Directory",
+        "url": "https://www.christiandirectory.info/",
+        "feed": null
+    },
+    {
+        "title": "CGI and Perl Script Resource",
+        "url": "https://www.script-resource.com/",
+        "feed": null
+    },
+    {
+        "title": "The Boater's Directory",
+        "url": "https://boat-directory.biz/",
+        "feed": null
+    },
+    {
+        "title": "American Made Directory",
+        "url": "https://www.americanmade-site.us/",
+        "feed": null
+    },
+    {
+        "title": "The Hobby Line Directory",
+        "url": "https://www.hobbyline.com/directory/",
+        "feed": null
+    },
+    {
+        "title": "The Florida Business Directory",
+        "url": "https://www.floridadirectory.biz/",
+        "feed": "https://www.floridiadirectory.biz/cgi-bin/pseek/rss.cgi?c=1"
     }
 ]
